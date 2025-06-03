@@ -8,3 +8,5 @@
 /temp/
 /test/
 /tests/
+myenv/
+.claude/

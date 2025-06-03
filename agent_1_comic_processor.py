@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Agent 1: Comic Processor & Script Creator (FIXED VERSION)
+Agent 1: Comic Processor & Script Creator (FIXED VERSION) 
 Enhanced CBR extraction with multiple fallback methods and fixed Vision API compatibility.
 """
 
@@ -133,7 +133,7 @@ class ComicProcessorFixed:
                     return image_paths
                     
         except ImportError:
-            print("❌ Py7zr library not available")
+            print("❌ Py7zr library not yes available")
         except Exception as e:
             print(f"❌ Py7zr extraction failed: {e}")
         

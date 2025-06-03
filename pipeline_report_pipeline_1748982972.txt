@@ -1,0 +1,19 @@
+
+================================================================================
+COMIC-TO-YOUTUBE SCRIPT PIPELINE REPORT
+================================================================================
+
+Pipeline ID: pipeline_1748982972
+Source CBR: /Users/abaas/Downloads/script-gen/King in Black 001 (2021) (Digital) (Zone-Empire).cbr
+Target Duration: 75 seconds
+
+EXECUTION SUMMARY:
+Status: FAILED
+Total Duration: 0.00 seconds
+Failed At: Unknown
+Error: Could not find Agent 1 output file
+
+STAGE BREAKDOWN:
+  agent_1: SUCCESS (113.10s)
+
+================================================================================
